@@ -1,7 +1,9 @@
 # Grocery_Data
 Created the dashboard using the microsoft Power bi tool.
 
-Grocery Data Analysis using Power BI
+#Grocery Data Analysis using Power BI
+
+
 Table of Contents
 Project Overview
 Dataset
